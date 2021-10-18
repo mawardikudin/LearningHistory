@@ -1,4 +1,4 @@
-# LearningHistory
+# LearningHistory Mawardi Kudin
 Repositori ini berisi pengalaman belajar dicoding
 
 **14 Juni 2021**  
